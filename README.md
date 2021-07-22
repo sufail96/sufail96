@@ -2,7 +2,8 @@
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Dart and Flutter
 - 💞️ I’m looking to collaborate on Flutter projects
-- 📫 How to reach me at khatib.sufail@gmail.com
+- 🌍 Based in Cape Town
+- 📫 Reach me at khatib.sufail@gmail.com
 
 <!---
 sufail96/sufail96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
